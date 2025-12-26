@@ -1,5 +1,5 @@
 # CEC
-CEC Project Submission Repository
+Project Submission Repository
 
 ## Video Link
 
